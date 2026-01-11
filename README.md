@@ -6,4 +6,4 @@ This repository contains benchmark-generators for (pure) nonlinear benchmark mod
 - Batch Chromatography
 - Gas Networks
 - Nonlinear Beam
-*Programmed and tested with: MATLAB R2016b*
+ *Programmed and tested with: MATLAB R2016b*
